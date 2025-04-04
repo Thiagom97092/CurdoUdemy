@@ -16,6 +16,5 @@ import com.example.cursoudemy.ui.theme.CursoUdemyTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
     }
 }
